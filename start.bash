@@ -1,1 +1,1 @@
-./ethdcrminer64 -epool eth-us-east1.nanopool.org:9999 -ewal 0xBbBcb9adDDe749617602565568b1c5f2dBa83999.hiveminer01/optional -epsw x -dcoin sia -dpool stratum+tcp://sia-us-east1.nanopool.org:7777 -dwal b6f71a2cdea0b33a57bc7beb3216bdee3e6c65462af3b64fec6e5659f8802a3b8bb660030a04/hiveminer01/optional -dpsw x -ftime 10
+./ethdcrminer64 -epool eth-us-east1.nanopool.org:9999 -ewal 0x5a83c0c286c5074f35927e5f3ac50c02b0ebdfff.hiveminer02/optional -epsw x

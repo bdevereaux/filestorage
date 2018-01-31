@@ -1,4 +1,0 @@
-POOL: stratum+tcp://sia-us-west1.nanopool.org:7777, WALLET: 02960d0441f69c59d8e31d6577a7c1cd4b6bca18055fc9f24a9ecbbde39722a8df16560c4779/hiveminer01/optional, PSW: x, WORKER: , ESM: 0, ALLPOOLS: 0
-POOL: stratum+tcp://sia-eu1.nanopool.org:7777, WALLET: 02960d0441f69c59d8e31d6577a7c1cd4b6bca18055fc9f24a9ecbbde39722a8df16560c4779/hiveminer01/optional, PSW: x, WORKER: , ESM: 0, ALLPOOLS: 0
-POOL: stratum+tcp://sia-eu2.nanopool.org:7777, WALLET: 02960d0441f69c59d8e31d6577a7c1cd4b6bca18055fc9f24a9ecbbde39722a8df16560c4779/hiveminer01/optional, PSW: x, WORKER: , ESM: 0, ALLPOOLS: 0
-POOL: stratum+tcp://sia-asia1.nanopool.org:7777, WALLET: 02960d0441f69c59d8e31d6577a7c1cd4b6bca18055fc9f24a9ecbbde39722a8df16560c4779/hiveminer01/optional, PSW: x, WORKER: , ESM: 0, ALLPOOLS: 0

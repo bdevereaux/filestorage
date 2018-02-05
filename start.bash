@@ -16,8 +16,9 @@ echo 'sudo chown root:root start.bash' >> /home/miner/autostart.sh
 echo 'sudo chmod +x start.bash' >> /home/miner/autostart.sh
 
 echo 'sudo apt-get install -y beep' >> /home/miner/autostart.sh
+echo 'sudo modprobe pcspkr'
 echo 'if ping -c 1 google.com >> /dev/null 2>&1; then' >> /home/miner/autostart.sh
-echo '    tput bel && tput bel && su miner -c "screen -dmS ethm ./start.bash"' >> /home/miner/autostart.sh # starts the miner
+echo '    su miner -c "screen -dmS ethm ./start.bash"' >> /home/miner/autostart.sh # starts the miner
 echo 'else' >> /home/miner/autostart.sh
 echo '    beep && beep && beep && sudo shutdown -h now' >> /home/miner/autostart.sh
 echo 'fi' >> /home/miner/autostart.sh

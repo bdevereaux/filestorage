@@ -23,7 +23,7 @@ export GPU_MAX_ALLOC_PERCENT=100
 # echo 'fi' >> /home/miner/autostart.sh
 
 if ping -c 1 google.com >> /dev/null 2>&1; then
-	sudo touch /home/miner/test.sh
+	touch /home/miner/test.sh
 	beep
 	beep
 	beep

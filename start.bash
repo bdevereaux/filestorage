@@ -1,7 +1,6 @@
 export GPU_MAX_ALLOC_PERCENT=100
 
 if ping -c 1 google.com >> /dev/null 2>&1; then
-	touch /root/test.sh
 	beep
 	beep
 	beep

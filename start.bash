@@ -10,9 +10,9 @@ cd /usr/local/claymore
 sudo chown root:root ethdcrminer64
 sudo chmod 755 ethdcrminer64
 sudo chmod u+s ethdcrminer64
-sudo cp ~/minerscripts/filestorage/* ./
-sudo chmod +x start.bash
-sudo chown root:root start.bash
+# sudo cp ~/minerscripts/filestorage/* ./
+# sudo chmod +x start.bash
+# sudo chown root:root start.bash
 rm -rf /home/miner/temp
 
 if ping -c 1 google.com >> /dev/null 2>&1; then
